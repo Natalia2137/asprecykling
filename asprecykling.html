@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Sprawdź kosz na recykling</title>
+  <style>
+    :root{
+      --bg:#f7f7fb; --card:#ffffff; --muted:#666;
+      --blue:#2b6ef6; --yellow:#f2c200; --green:#2f9e44; --brown:#8b5a2b; --gray:#6b7280;
+    }
+    body{font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background:var(--bg); margin:0; padding:24px; color:#111}
+    .wrap{max-width:900px;margin:0 auto}
+    header{display:flex;align-items:center;gap:16px}
+    h1{margin:0;font-size:20px}
+    p.lead{margin:6px 0 18px;color:var(--muted)}
+    .card{background:var(--card);border-radius:12px;padding:18px;box-shadow:0 6px 20px rgba(20,20,50,0.06)}
+    .search{display:flex;gap:8px;align-items:center}
+    input[type=text]{flex:1;padding:10px 12px;border-radius:8px;border:1px solid #e6e9ef;font-size:15px}
+    button{padding:10px 14px;border-radius:8px;border:0;background:var(--blue);color:#fff;font-weight:600;cursor:pointer}
+    .results{margin-top:14px}
+    .bin{display:flex;gap:12px;align-items:center;padding:12px;border-radius:10px;border:1px dashed #eee}
+    .dot{width:36px;height:36px;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700}
+    .dot.blue{background:var(--blue)}
+    .dot.yellow{background:var(--yellow);color:#111}
+    .dot.green{background:var(--green)}
+    .dot.brown{background:var(--brown)}
+    .dot.gray{background:var(--gray)}
+    .info{flex:1}
+    .muted{color:var(--muted);font-size:13px}
+    .examples{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+    .chip{background:#f1f5ff;padding:6px 10px;border-radius:999px;cursor:pointer;border:1px solid #e6edff;font-size:14px}
+    footer{margin-top:18px;color:var(--muted);font-size:13px}
+    @media (max-width:520px){header{flex-direction:column;align-items:flex-start} .search{flex-direction:column} button{width:100%}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Sprawdź, do którego kosza wyrzucić odpad</h1>
+    </header>
+
+    <p class="lead">Wpisz nazwę przedmiotu (np. "butelka", "gazeta", "karton") — strona podpowie, do którego pojemnika najczęściej trafia.</p>
+
+    <div class="card">
+      <div class="search">
+        <input id="q" type="text" placeholder="Wpisz odpad, np. " + '"butelka"' + " lub " + '"gazeta"' + '"' />
+        <button id="go">Sprawdź</button>
+      </div>
+
+      <div class="examples">
+        <div class="chip">butelka plastikowa</div>
+        <div class="chip">gazeta</div>
+        <div class="chip">słoik szklany</div>
+        <div class="chip">karton po mleku</div>
+        <div class="chip">bateria</div>
+        <div class="chip">resztki jedzenia</div>
+      </div>
+
+      <div class="results" id="results" aria-live="polite"></div>
+
+      <footer>
+        <strong>Uwaga:</strong> zasady segregacji mogą się różnić w zależności od gminy — traktuj podpowiedzi jako ogólne wskazówki.
+      </footer>
+    </div>
+
+    <div style="height:18px"></div>
+
+    <div class="card">
+      <h3 style="margin-top:0">Legenda koszy</h3>
+      <div style="display:flex;gap:12px;flex-wrap:wrap">
+        <div class="bin" style="width:260px"><div class="dot blue">B</div><div class="info"><strong>NIEBIESKI</strong><div class="muted">Papier (gazety, kartony po suchych produktach) </div></div></div>
+        <div class="bin" style="width:260px"><div class="dot yellow">Ż</div><div class="info"><strong>ŻÓŁTY</strong><div class="muted">Tworzywa sztuczne, metal, puszki, opakowania wielomateriałowe</div></div></div>
+        <div class="bin" style="width:260px"><div class="dot green">S</div><div class="info"><strong>ZIELONY</strong><div class="muted">Szkło (butelki, słoiki) — czasem osobno białe i kolorowe</div></div></div>
+        <div class="bin" style="width:260px"><div class="dot brown">B</div><div class="info"><strong>BRĄZOWY</strong><div class="muted">Odpady biodegradowalne / bio (resztki jedzenia)</div></div></div>
+        <div class="bin" style="width:260px"><div class="dot gray">M</div><div class="info"><strong>SZARY / CZARNY</strong><div class="muted">Odpady zmieszane (to, czego nie można segregować)</div></div></div>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    // Prosta baza skojarzeń. Możesz dodać kolejne synonimy.
+    const db = [
+      {keys:['gazeta','papier','karton','karton po mleku','tektura','ulotka'],bin:'NIEBIESKI',code:'blue',note:'Papier — usuń folie i zabrudzenia tłuszczem.'},
+      {keys:['butelka plastikowa','butelka pet','butelka','folia','opakowanie plastikowe','tacka styropian'],bin:'ŻÓŁTY',code:'yellow',note:'Plastik, metale i opakowania wielomateriałowe. Wyrzucaj puste i wypłukane.'},
+      {keys:['słoik','słoik szklany','butelka szklana','szkło','słoik po ogórkach'],bin:'ZIELONY',code:'green',note:'Szkło — jeśli trzeba, usuń wieczko (metal oddzielnie).'},
+      {keys:['resztki jedzenia','skórki','obierki','resztki kuchenne'],bin:'BRĄZOWY',code:'brown',note:'Bio — jeśli masz kompostownik, możesz tam trafić.'},
+      {keys:['bateria','akumulator','elektronika','telefon','lampa','ładowarka'],bin:'SPECJALNE',code:'gray',note:'Elektrośmieci / baterie — oddaj w punkcie zbiórki.'},
+      {keys:['opakowanie po jogurcie','kubek po jogurcie','karton po soku','tetrapak'],bin:'ŻÓŁTY',code:'yellow',note:'Opakowania po produktach spożywczych — opłukać.'},
+      {keys:['drewniana łyżka','meble','duże elementy'],bin:'MEBLE_I_GRABAR','code':'gray',note:'Meble i duże elementy — gabaryty/PSZOK.'}
+    ];
+
+    // Dodatkowe reguły prostego dopasowania słów (synonimy i skróty)
+    function findMatch(query){
+      const q = query.trim().toLowerCase();
+      if(!q) return null;
+      // Najpierw próba dopasowania pełnego klucza
+      for(const item of db){
+        for(const k of item.keys){
+          if(q === k) return item;
+        }
+      }
+      // Potem częściowe dopasowanie (contains)
+      for(const item of db){
+        for(const k of item.keys){
+          if(q.includes(k) || k.includes(q)) return item;
+        }
+      }
+      // Słowo po słowie - przydatne np. "butelka" z "butelka plastikowa"
+      const parts = q.split(/\s+/);
+      for(const item of db){
+        for(const k of item.keys){
+          for(const p of parts){
+            if(k.includes(p) && p.length>2) return item;
+          }
+        }
+      }
+      return null;
+    }
+
+    const qEl = document.getElementById('q');
+    const go = document.getElementById('go');
+    const results = document.getElementById('results');
+
+    function renderResult(item, query){
+      if(!item){
+        results.innerHTML = `<div class="bin"><div class="dot gray">?</div><div class="info"><strong>Nie znaleziono jasnej podpowiedzi</strong><div class="muted">Spróbuj innego określenia (np. "butelka","karton"). Jeśli to niebezpieczny lub elektroniczny przedmiot — oddaj do punktu zbiórki.</div></div></div>`;
+        return;
+      }
+      const note = item.note? `<div class="muted">${item.note}</div>` : '';
+      results.innerHTML = `<div class="bin"><div class="dot ${item.code}">${item.bin[0]}</div><div class="info"><strong>Wyrzucaj do: ${item.bin}</strong>${note}</div></div>`;
+    }
+
+    go.addEventListener('click', ()=>{
+      const val = qEl.value;
+      const found = findMatch(val);
+      renderResult(found, val);
+    });
+
+    qEl.addEventListener('keydown', (e)=>{ if(e.key==='Enter') go.click(); });
+
+    // Klikalne przykłady
+    document.querySelectorAll('.chip').forEach(el=>{
+      el.addEventListener('click', ()=>{
+        qEl.value = el.textContent;
+        go.click();
+      });
+    });
+
+    // Mały easter-egg: jeśli użytkownik wpisze "pomoc", pokaż listę wszystkich kluczy
+    function showAllKeys(){
+      const flat = db.flatMap(it=>it.keys.map(k=>`• ${k} → ${it.bin}`));
+      results.innerHTML = `<div style="white-space:pre-wrap">${flat.join('\n')}</div>`;
+    }
+    // Cmd/Control+K - pokaż listę kluczy (skrót)
+    document.addEventListener('keydown', (e)=>{
+      if((e.ctrlKey||e.metaKey) && e.key.toLowerCase()==='k'){
+        e.preventDefault();
+        showAllKeys();
+      }
+    });
+
+    // Na start - podpowiedź
+    results.innerHTML = `<div class="muted">Wpisz nazwę odpadu i naciśnij "Sprawdź" — strona poda najlepszą ogólną podpowiedź.</div>`;
+  </script>
+</body>
+</html>
