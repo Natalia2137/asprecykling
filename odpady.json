@@ -1,0 +1,5042 @@
+[
+  {
+    "Nazwa": "abażur",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli  jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "aerator",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Jeśli sprzęt jest elektryczny należy dostarczyć go na PSZOK lub zbiórkę elektroodpadów."
+  },
+  {
+    "Nazwa": "aerozol",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Wrzucić po opróżnieniu pojemnika."
+  },
+  {
+    "Nazwa": "agrafka",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "agrowłóknina",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Zanim wyrzucisz, potnij na ok. 30 centymetrowe kawałki. Materiał dużych rozmiarów może uszkodzić instalację do przetwarzania odpadów."
+  },
+  {
+    "Nazwa": "akcesoria kuchenne drewniane i szklane (np. miski, sztućce, deski)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "akcesoria kuchenne z plastiku, metalu (np. miski, koszyki, deski, sztućce wielorazowe)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "akumulator samochodowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Zużyty akumulator można bezpłatnie zostawić w sklepie, w którym kupuje się nowy."
+  },
+  {
+    "Nazwa": "akwarium, terrarium",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "antena",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "antyrama",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli  jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji. Szkło należy wrzucić do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "aparat fotograficzny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "aparat słuchowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "azbest",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Azbest nie jest traktowany jako odpad komunalny, należy go usunąć i zutylizować korzystając z usług specjalistycznej firmy."
+  },
+  {
+    "Nazwa": "bagażnik dachowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "baletki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli są w dobrym stanie, połącz je w pary i wyrzucić do kontenera na odzież używaną. Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "bambus",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "bandaż",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "basen",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "bateria kuchenna, zlewozmywakowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "bateria łazienkowa, prysznicowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": "Baterie prysznicową dużych rozmiarów wystaw w ramach zbiórki akcyjnej sprzed posesji."
+  },
+  {
+    "Nazwa": "baterie",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Możesz wyrzucić także do oznakowanego pojemnika w sklepie lub placówkach użyteczności publicznej."
+  },
+  {
+    "Nazwa": "baterie akumulatorowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Możesz wyrzucić także do oznakowanego pojemnika w sklepie lub placówkach użyteczności publicznej."
+  },
+  {
+    "Nazwa": "belki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "bidet",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "Bielizna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "bilet",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "W zależności od papieru na jakim został wydrukowany, wrzucamy go do pojemnika na papier (bilet kartonowy), lub do pojemnika na odpady zmieszane (bilet wydrukowany na papierze termicznym, faksowym)."
+  },
+  {
+    "Nazwa": "bilet kartonikowy",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "bindownica",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "bita śmietana w sprayu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Puste opakowanie po bitej śmietanie wyrzuć do pojemnika/worka na tworzywa sztuczne i metale (kolor żółty)."
+  },
+  {
+    "Nazwa": "biurko",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "biustonosz",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "biżuteria sztuczna",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Blacha do ciasta",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "blachodachówka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "blat ceramiczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "blat drewniany",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "blat z płyty laminowanej, MDF",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "blender",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "blister aluminiowy po lekach",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "blister, pojemnik plastikowy po tabletkach",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Blok rysunkowy",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "boazeria",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "bombki choinkowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "box, bagażnik dachowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "bramka do piłki nożnej",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "breloczek",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "brodzik ceramiczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "brodzik z tworzywa sztucznego",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Brytfanka (metalowa)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "buda dla psa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "budzik na baterie",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Buraki gotowane",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Buteleczka po aromatach do ciasta (szklana)",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "butelka PET - plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Należy opróżnić z zawartości i zgnieść przed wyrzuceniem. Nakrętkę pozostaw na butelce, jeśli nie zbierasz ich oddzielnie w akcjach charytatywnych."
+  },
+  {
+    "Nazwa": "butelka plastikowa po oleju do smażenia",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "butelka po domestosie",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "butelka po kefirze (plastikowa)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "butelka po lakierze do paznokci",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "butelka po mleczku do czyszczenia",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Należy opróżnić z zawartości."
+  },
+  {
+    "Nazwa": "Butelka po perfumach",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "butelka szklana",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": "Należy opróżnić z zawartości."
+  },
+  {
+    "Nazwa": "butelka szklana po oleju",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "butelka, buteleczka szklana po olejku zapachowym",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Butelki po oleju silnikowym",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "butla gazowa",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Należy dostarczyć do punktu wymiany butli gazowych."
+  },
+  {
+    "Nazwa": "buty, obuwie",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli są w dobrym stanie, połącz je w pary i wyrzucić do kontenera na odzież używaną. Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "cebulki kwiatowe",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "cegła",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "celofan",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ceramika stołowa (talerze, miski, dzbanki, wazy, kubki)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "cerata",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "chipsy, chrupki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "chleb",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Czy wiesz, że w Polsce marnuje się ok. 9 mln ton żywności rocznie?"
+  },
+  {
+    "Nazwa": "choinka sztuczna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Choinka żywa",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Choinkę, przed umieszczeniem w pojemniku na bioodpady, należy wcześniej pociąć na mniejsze ok 30cm kawałki."
+  },
+  {
+    "Nazwa": "chusteczka do nosa (papierowa, materiałowa)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "chusteczki higieniczne",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "chusteczki nawilżające",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "chwast",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "chłodziarka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "cienie do powiek",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ciśnieniomierz",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ciśnieniomierz elektroniczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Ciśnieniomierz zegarowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Uwaga! Jeśli stanowi elektroodpad (działa na baterie, posiada elektronikę) dostarcz go do PSZOK lub na zbiórkę elektroodpadów."
+  },
+  {
+    "Nazwa": "czajnik elektryczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "czajnik stalowy z gwizdkiem",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "części komputerowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "części samochodowe (fragmenty tapicerek, zderzaki, lampy, reflektor, lusterko samochodowe)",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Części samochodowe nie stanowią odpadów komunalnych i nie podlegają zbiórce organizowanej przez gminy, w tym przez Związek. Ten odpad należy zagospodarować na własny koszt, np. na stacji demontażu pojazdów."
+  },
+  {
+    "Nazwa": "dachówka ceramiczna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "Depilator",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "deska do prasowania",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "deska do pływania",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "deska drewniana",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "deska drewniana duża",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "deska plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "deska sedesowa wykonana z materiałów nie będących tworzywem sztucznym",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "deska sedesowa wykonana z tworzyw sztucznych",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "deska snowboardowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "deskorolka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": "Jeśli sprzęt jest elektryczny należy dostarczyć go na PSZOK lub zbiórkę elektroodpadów."
+  },
+  {
+    "Nazwa": "detergenty zawierające substancje niebezpieczne",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dezodorant w sprayu",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dezodorant w szkle",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dezodorant w sztyfcie lub kulce",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli pojemnik jest szklany, a kulka plastikowa, dezodorant wrzucamy do pojemnika na szkło. Możemy oddzielić kulkę i wrzucić ją oddzielnie do pojemnika na tworzywa sztuczne i metale."
+  },
+  {
+    "Nazwa": "Dezodoranty",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Należy opróżnić przed wyrzuceniem."
+  },
+  {
+    "Nazwa": "domek dla dzieci plastikowy ogrodowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "domek dla lalek (dużych rozmiarów)",
+    "Gdzie Wyrzucić2": "zbiórka akcyjna\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "domofon",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "doniczka ceramiczna",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli jest dużych rozmiarów lub posiadasz większą ilość – dostarcz do PSZOK (obowiązuje limit 300 kg / mieszkańca /  rok)"
+  },
+  {
+    "Nazwa": "doniczka plastikowa (ozdobna, osłonka)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "doniczka uprawowa (z sadzonki)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Doniczki po rozsadach",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "drabina (drewniana, metalowa)",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Drabina aluminiowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "drewno impregnowane",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "drobny złom żelazny",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Drożdże",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Drucik po zimnych ogniach",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "drukarka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "drut",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "drzewo",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Należy rozdrobnić przed wyrzuceniem na kawałki o wymiarach maksymalnych 30 x 20 cm."
+  },
+  {
+    "Nazwa": "Drzwi plastikowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "drzwi – bez szyby",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": "Szybę należy wytłuc i wrzucić do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "dyski zewnętrzne (sprzęt komputerowy)",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dyskietki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dywan",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dywanik samochodowy",
+    "Gdzie Wyrzucić2": "zbiórka akcyjna\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dzbanek filtrujący plastikowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dzbanek plastikowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dzbanek szklany",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dzbanek szklany z elementami plastikowymi",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dziurkacz",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "dętka rowerowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "długopis",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Wkład należy wyciągnąć i wrzucić do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "e-papieros",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ekspres do kawy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "elektronarzędzia",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "elektrośmieci",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "elektryczna szczoteczka do zębów",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "etui do okularów",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "etui na telefon",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "farba olejna, emulsyjna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Na PSZOK należy dostarczyć także puste puszki, wiadra po farbach."
+  },
+  {
+    "Nazwa": "farba plakatowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "fartuch kuchenny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli jest w dobrym stanie możesz go wyrzucić do kontenera na odzież używaną.  Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "felgi aluminiowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Możesz także oddać do punktu skupu złomu."
+  },
+  {
+    "Nazwa": "felgi stalowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Możesz także oddać do punktu skupu złomu."
+  },
+  {
+    "Nazwa": "filtr do dzbanka filtrującego wodę",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "filtr samochodowy (kabinowy)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Po warunkiem, że odpad pochodzi z gospodarstwa domowego i nie stanowi odpadu z działalności gospodarczej."
+  },
+  {
+    "Nazwa": "Filtry do kawy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "filtry olejowe",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Nie jest to odpad komunalny i nie podlega zbiórce organizowanej przez ZM \"Czysty Region\". Ten odpad powinien od nas odebrać mechanik."
+  },
+  {
+    "Nazwa": "fiolka po insulinie",
+    "Gdzie Wyrzucić2": "Oznakowany pojemnik w aptece\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Listę aptek odbierających leki znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "firanka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli jest w dobrym stanie możesz ją wyrzucić do kontenera na odzież używaną.  Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "Flakon po perfumach",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "fleki do butów",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "folia",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "folia aluminiowa zabrudzona żywnością",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "folia aluminiowa, pozłotko (np. po czekoladzie)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Materiał dużych rozmiarów należy pociąć na ok. 30 centymetrowe kawałki, ponieważ może uszkodzić instalację do przetwarzania odpadów."
+  },
+  {
+    "Nazwa": "folia bąbelkowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Materiał dużych rozmiarów należy pociąć na ok. 30 centymetrowe kawałki, ponieważ może uszkodzić instalację do przetwarzania odpadów."
+  },
+  {
+    "Nazwa": "folia do żywności",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "folia malarska (czysta)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli jest zabrudzona, wrzucamy do pojemnika na odpady zmieszane. Zanim wyrzucisz, potnij ją na ok. 30 centymetrowe kawałki. Folia dużych rozmiarów może uszkodzić instalację do przetwarzania odpadów."
+  },
+  {
+    "Nazwa": "Folia ochronna",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "folia ogrodowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Zanim wyrzucisz, potnij ją na ok. 30 centymetrowe kawałki. Folia dużych rozmiarów może uszkodzić instalację do przetwarzania odpadów."
+  },
+  {
+    "Nazwa": "folia po korze, ziemi ogrodowej itp.",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Zanim wyrzucisz, potnij ją na ok. 30 centymetrowe kawałki. Folia dużych rozmiarów może uszkodzić instalację do przetwarzania odpadów."
+  },
+  {
+    "Nazwa": "Folia po lodach",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "folia po parówce",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "folia samoprzylepna",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "folia stretch",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "folia z oczka wodnego",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Zanim wyrzucisz, potnij ją na ok. 30 centymetrowe kawałki. Folia dużych rozmiarów może uszkodzić instalację do przetwarzania odpadów."
+  },
+  {
+    "Nazwa": "folia zabrudzona żywnością",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "folia zanieczyszczona",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Materiał dużych rozmiarów należy pociąć na ok. 30 centymetrowe kawałki, ponieważ może uszkodzić instalację do przetwarzania odpadów."
+  },
+  {
+    "Nazwa": "foliowa koszulka na dokumenty",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Wyjmujemy z niej wszelkie dokumenty, papiery, które należy wrzucić do pojemnika / worka na papier."
+  },
+  {
+    "Nazwa": "foliowe opakowanie po makaronie",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "foliówka, zrywka",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "fontanna plastikowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "foremka metalowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "foremka silikonowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Forma metalowa do ciasta",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "fotel samochodowy",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Części samochodowe nie stanowią odpadów komunalnych i nie podlegają zbiórce organizowanej przez gminy, w tym przez Związek. Ten odpad należy zagospodarować na własny koszt, np. na stacji demontażu pojazdów."
+  },
+  {
+    "Nazwa": "fotele samochodowe",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Nie jest to odpad komunalny i nie podlega zbiórce organizowanej przez ZM \"Czysty Region\". Ten odpad powinien odebrać mechanik."
+  },
+  {
+    "Nazwa": "fotelik rowerowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "fotelik samochodowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "fusy z kawy i herbaty",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "futryna drzwiowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gabaryty",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": "Do odpadów gabarytowych zalicza się meble domowe i ogrodowe, drzwi i ramy okienne, wózki dziecięce, rowery, dywany, wykładziny, materace, zabawki dużych rozmiarów (ale niestanowiące elektroodpadów). Odpady muszą być pozbawione elementów szklanych."
+  },
+  {
+    "Nazwa": "Galaretka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "garnek i pokrywka metalowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "garnek i pokrywka szklana",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Garnki",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Garnki emaliowane",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gaza opatrunkowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gazeta",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gałęzie drobne",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": "Nadmiar bioodpadów można także dostarczyć do Punktu Selektywnej Zbiórki Odpadów Komunalnych."
+  },
+  {
+    "Nazwa": "gaśnica",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Odpad należy oddać do firmy specjalistycznej zajmującej się sprzętem ppoż."
+  },
+  {
+    "Nazwa": "gilotyna",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gips",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "glebogryzarka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Jeśli sprzęt jest elektryczny należy dostarczyć go na PSZOK lub zbiórkę elektroodpadów."
+  },
+  {
+    "Nazwa": "glukometr",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gniazdko elektryczne",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gogle",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "golarka elektryczna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gotowane warzywa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gres",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "grill jednorazowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gruz",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "gry planszowe",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": "Jeśli zawiera części plastikowe należy je wrzucić do tworzyw sztucznych."
+  },
+  {
+    "Nazwa": "grzebień",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "grzejnik",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Jeśli sprzęt jest elektryczny należy dostarczyć go na PSZOK lub zbiórkę elektroodpadów."
+  },
+  {
+    "Nazwa": "grzejnik elektryczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gumka recepturka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gumki do włosów",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gumowce",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "guziki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gwoździe, śruby",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gąbka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gąbki do makijażu, gąbki kąpielowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "gąsior",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "głośniki komputerowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "hantle",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Henna do brwi",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Opakowanie tekturowe z henny wyrzuć do pojemnika na papier."
+  },
+  {
+    "Nazwa": "herbata ekspresowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "holter",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "hulajnoga",
+    "Gdzie Wyrzucić2": "zbiórka akcyjna\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Jeśli sprzęt jest elektryczny należy dostarczyć go na PSZOK lub zbiórkę elektroodpadów."
+  },
+  {
+    "Nazwa": "igła do szycia",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "igła po insulinie",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "igły, strzykawki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "imadło",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "jajko",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Skorupkę wrzuć do bioodpadów lub przydomowego kompostownika."
+  },
+  {
+    "Nazwa": "Jednorazówki do golenia",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "jogurt, śmietana, twarożek",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "joystick",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kabina prysznicowa szklana",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Należy skontaktować się z Instalacją - tel. (77)488 68 50"
+  },
+  {
+    "Nazwa": "kabina prysznicowa z tworzywa sztucznego",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kable elektryczne",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kafelki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "kajak",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Kalka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kalkulator",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kamera",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kamerka komputerowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kamień drobny",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Należy skontaktować się z Instalacją - tel. (77)488 68 50"
+  },
+  {
+    "Nazwa": "kanapka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Czy wiesz, że w Polsce marnuje się ok. 9 mln ton żywności rocznie?"
+  },
+  {
+    "Nazwa": "kanister po paliwie",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kapelusz, beret, czapka z daszkiem",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli są w dobrym stanie możesz je wyrzucić do kontenera na odzież używaną.  Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "kapsel",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kapsułka po kawie",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Należy opróżnić z zawartości."
+  },
+  {
+    "Nazwa": "karimata",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "karma dla kota",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Opróżnione opakowanie wrzuć do odpowiedniego pojemnika (saszetki, puszki itp. - pojemnik lub worek na metale i tworzywa sztuczne)"
+  },
+  {
+    "Nazwa": "karmnik",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "karnisz",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Karta sim",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "karton",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": "Należy zgnieść przed wyrzuceniem."
+  },
+  {
+    "Nazwa": "karton po jajkach (wytłaczanka)",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "karton po mleku, śmietance, soku",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Należy opróżnić i zgnieść przed wyrzuceniem."
+  },
+  {
+    "Nazwa": "kartusz",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kaseta VHS i magnetofonowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Kaseton styropianowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kasetony",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Kasety wideo",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kask rowerowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Kasztany",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kieliszek",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kieliszki kryształowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kiełbasa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kij do mopa, miotły metalowy, plastikowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Zanim wyrzucisz, potnij na ok. 30 centymetrowe kawałki. Materiał dużych rozmiarów może uszkodzić instalację do przetwarzania odpadów."
+  },
+  {
+    "Nazwa": "kij od miotły (drewniany)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kijki nording walking",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kiszonki domowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "klamerka plastikowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "klamka metalowa, plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "klapki basenowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "klatka po chomiku/ptaku",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "klawiatura",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "klej biurowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "klej montażowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "klimatyzator",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "klocki plastikowe",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "klosz abażur plastikowy, płócienny, wiklinowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "klosz, abażur szklany",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "klozet",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych i rozbiórkowych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "klucz",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kluczyk do drzwi",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "koc",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli jest w dobrym stanie możesz go wyrzucić do kontenera na odzież używaną.  Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "kocie odchody",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kombiwar",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kompozycje z suszu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "komputer",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "konary",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Należy rozdrobnić przed wyrzuceniem na kawałki o wymiarach maksymalnych 30 x 20 cm."
+  },
+  {
+    "Nazwa": "konewka metalowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "konewka plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "konfitura",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "koperta bąbelkowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "koperta papierowa",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "koperta papierowa z okienkiem",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": "Należy oddzielić folię od papieru i folię wrzucić do tworzyw sztucznych i metali."
+  },
+  {
+    "Nazwa": "kora",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "korki od wina, szampana",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli jesteśmy pewni, że korek jest plastikowy, należy wrzucić go do pojemnika / worka na tworzywa sztuczne i metale."
+  },
+  {
+    "Nazwa": "kosiarka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kosmetyczka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Kosmetyki do oczu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kosmetyki w aerozolu",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kosz na śmieci metalowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "kosz na śmieci plastikowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "kosz wiklinowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "kosze i pojemniki plastikowe",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "koszyczek po kostce wc",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "koszyk plastikowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kołdra",
+    "Gdzie Wyrzucić2": "Kontenery na odzież używaną\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Jeśli jest w dobrym stanie możesz ją wyrzucić do kontenera na odzież używaną.  Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "Końcówka do elektrycznej szczoteczki do zębów",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kości, kość, ości",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kości, kość, ości",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "krasnal ceramiczny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kredens",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kredki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kryształy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "krzesło",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "krzesło biurkowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "krzesło ogrodowe metalowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "krzesło ogrodowe plastikowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "krzewy",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Należy rozdrobnić przed wyrzuceniem na kawałki o wymiarach maksymalnych 30 x 20 cm."
+  },
+  {
+    "Nazwa": "ksiązki",
+    "Gdzie Wyrzucić2": "Papier\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Kompletne książki warto dostarczyć na PSZOK, gdzie znajduje się punkt \"Drugie życie\"."
+  },
+  {
+    "Nazwa": "książka",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": "Należy usunąć okładkę i wrzucić ją do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "kubek ceramiczny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kubek papierowy jednorazowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Mimo, że wykonany jest z papieru, jego wewnętrzna strona jest powlekana tworzywem sztucznym. Takie kubki nie najadają się do recyklingu."
+  },
+  {
+    "Nazwa": "kubek plastikowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kubek po jogurcie",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Należy opróżnić z resztek żywności."
+  },
+  {
+    "Nazwa": "Kubek po śmietanie (plastikowy)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kubek porcelanowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kubek styropianowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kubek szklany",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kubek z arkoroku",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kubek, kufel plastikowy jednorazowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kuchenka gazowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kuchenka mikrofalowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Kuchnia gazowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kupon loteryjny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kurtka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Dodatkowo odzież można wrzucać do kontenerów na odzież używaną. \nLokalizację kontenerów PCK znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "kuweta metalowa na dokumenty",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kuweta plastikowa na dokumenty",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kwiaty",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": "Nadmiar bioodpadów można także dostarczyć do Punktu Selektywnej Zbiórki Odpadów Komunalnych."
+  },
+  {
+    "Nazwa": "kwiaty doniczkowe",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": "Nadmiar bioodpadów można także dostarczyć do Punktu Selektywnej Zbiórki Odpadów Komunalnych."
+  },
+  {
+    "Nazwa": "kwiaty sztuczne",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "kłębek wełny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "lakier do paznokci",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "lakier do włosów",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "lalka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "laminarka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "lampa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Jeśli posiada klosz należy go wrzucić do odpadów zmieszanych. Klosze plastikowe, płócienne dużych rozmiarów można wystawić na zbiórkę akcyjną sprzed posesji. Pozostałą część lampy zawierającą elektronikę należy dostarczyć na PSZOK lub do punktu zbiórki elektroodpadów."
+  },
+  {
+    "Nazwa": "lampa fluorescencyjna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Możesz wyrzucić także do oznakowanego pojemnika w wybranych placówkach handlowych."
+  },
+  {
+    "Nazwa": "lampa solarna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "lampka biurkowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "lampki choinkowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "laptop",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "latarka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "latawiec",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "lekarstwa",
+    "Gdzie Wyrzucić2": "Oznakowany pojemnik w aptece\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Listę aptek odbierających leki znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "lep na muchy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "lewarek",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "leżak",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "linijka drewniana",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "linijka plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Linoleum",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "listek, blister po lekach",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Listki po lekach",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "listwy przypodłogowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "liście",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": "Nadmiar bioodpadów można także dostarczyć do Punktu Selektywnej Zbiórki Odpadów Komunalnych."
+  },
+  {
+    "Nazwa": "lodówka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "lotka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Luksfery",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Odpad limitowany."
+  },
+  {
+    "Nazwa": "lusterko",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "lusterko samochodowe",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Nie jest to odpad komunalny i nie podlega zbiórce organizowanej przez ZM \"Czysty Region\". Ten odpad powinien odebrać od nas mechanik."
+  },
+  {
+    "Nazwa": "lustro",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "magnes",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "majonez",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Szklany słoik po majonezie wyrzuć do szkła."
+  },
+  {
+    "Nazwa": "margaryna",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Plastikowe opakowanie po margarynach, olejach po opróżnieniu wrzuć do  pojemnika/worka na metale i tworzywa sztuczne (kolor żółty)."
+  },
+  {
+    "Nazwa": "Markery",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "maseczka ochronna",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Maskotka",
+    "Gdzie Wyrzucić2": "Kontenery na odzież używaną\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "maszyna do szycia",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "masło",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Opakowanie po maśle wrzuć także do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "materac",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "materac dmuchany",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Materac gąbkowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "materiały bambusowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "materiały izolacyjne",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "mauzer",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Odpad zostanie przyjęty wyłącznie w przypadku gdy przeznaczony był na wodę."
+  },
+  {
+    "Nazwa": "mazaki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "maść (lekarstwo)",
+    "Gdzie Wyrzucić2": "Oznakowany pojemnik w aptece\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Listę aptek odbierających leki znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "mebelki plastikowe dla dzieci",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "meble ogrodowe drewniane",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "meble ogrodowe plastikowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "meble ogrodowe ratanowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "meble wiklinowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "medal",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Metalowa szafka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "miednica",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "mikrofalówka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "mikser",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "miotła (wkład)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "miska metalowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "miska plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "miska szklana",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "mięso",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "mięso",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "modelina",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "monitor komputerowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "mop (wkład)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "muchozol",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "muszelki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "muszla klozetowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych i rozbiórkowych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "myjka do okien",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "myszka komputerowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "młotek",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "młynek elektryczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "młynek ręczny (metalowy, plastikowy)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "nabiał",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "naczynia ceramiczne",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "naczynia drewniane",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "naczynia kryształowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "naczynia metalowe",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "naczynie ceramiczne",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "naczynie żaroodporne",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "naczynie żeliwne",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "naklejki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "nakrętka metalowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "nakrętka plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Nakrętki ze słoików",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "namiot",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "naparstek",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "narty, sanki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "narzędzia ogrodnicze (grabie, motyka, kopaczka)",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "narzędzia samochodowe (klucze, lewarek)",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Możesz także oddać do punktu skupu złomu."
+  },
+  {
+    "Nazwa": "narzędzia spalinowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "nasiona",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "niedopałki papierosa / pety",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "nosidełko",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "nożyczki, cążki",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "nóż",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "obieraczka metalowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "obieraczka metalowa z elementami plastikowymi",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "obierki",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": "Nadmiar bioodpadów można także dostarczyć do Punktu Selektywnej Zbiórki Odpadów Komunalnych."
+  },
+  {
+    "Nazwa": "Obierki z ziemniaków",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "obrazy, ramki na zdjęcia",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli ramka / obraz jest dużych rozmiarów należy dostarczyć ją na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji. Szkło powinno trafić do odpadów zmieszanych. Ramki drewniane niewielkich rozmiarów należy wrzucić do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "obrusy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli jest w dobrym stanie możesz go wyrzucić do kontenera na odzież używaną.  Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "obuwie ogrodnicze",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ociekacz metalowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ociekacz plastikowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "odchody zwierząt domowych",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "odczynniki fotograficzne",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczane do odpadów niebezpiecznych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "odkurzacz",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "odzież, ciuchy, ubranie \"do użytku\"",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Dodatkowo odzież można wrzucać do kontenerów na odzież używaną. \nLokalizację kontenerów PCK znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "odzież, ciuchy, ubranie nienadające się do użytku",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Dodatkowo odzież można wrzucać do kontenerów na odzież używaną. \nLokalizację kontenerów PCK znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "odświeżacz powietrza w sprayu",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Wyrzuć po opróżnieniu opakowania."
+  },
+  {
+    "Nazwa": "ogrodzenie drewniane",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ogrodzenie metalowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Możesz także oddać do punktu skupu złomu."
+  },
+  {
+    "Nazwa": "ogrodzenie, siatka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ogryzek",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ogórki kiszone",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "okap",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "okno, okna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": "Należy wytłuc szybę i wrzucić ją do kontenera na odpady zmieszane. Szkło płaskie można oddać na PSZOK stacjonarny."
+  },
+  {
+    "Nazwa": "okulary basenowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "okulary słoneczne",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "okulary, lupy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Możesz sprawdzić czy w Twojej okolicy (np. u optyka) nie prowadzona jest zbiórka okularów na cele charytatywne."
+  },
+  {
+    "Nazwa": "okładka foliowa na zeszyt",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "olej jadalny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zachęcamy do korzystania z olejomatów. Ostatecznie możesz wlać olej do zamykanego pojemnika i wrzucić do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "olej silnikowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "olejek do masażu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "olejek kosmetyczny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ondulina",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Nie jest to odpad komunalny i nie podlega zbiórce organizowanej przez ZM \"Czysty Region\". Stanowi odpad niebezpieczny. Należy skontaktować się z wyspecjalizowaną firmą odbierającą tego typu odpady."
+  },
+  {
+    "Nazwa": "opakowania plastikowe po chemii gospodarczej, kosmetykach",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowania plastikowe po kosmetykach",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Opróżnione z zawartości. Opakowania z trwale połączonych wielu materiałów (np. plastik, lustro) wrzuć do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "opakowania plastikowe po mokrej karmie dla zwierząt",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowania po chipsach",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowania po farbach w sprayu, farby w sprayu",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowania po mokrej karmie dla zwierząt",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Należy opróżnić z zawartości."
+  },
+  {
+    "Nazwa": "opakowania po nawozach rolniczych",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Nie jest to odpad komunalny i nie podlega zbiórce organizowanej przez ZM \"Czysty Region\". Należy skontaktować się z wyspecjalizowaną firmą odbierającą tego typu odpady."
+  },
+  {
+    "Nazwa": "opakowania po olejqch silnikowych",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowania po podpałkach do grilla w płynie",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowania po zupach w proszku",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Uwaga! Opakowanie po zupach instant w kubeczkach papierowych lub styropianowych wrzucamy do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "opakowania po środkach czystości (np. po płynie do naczyń, płynie do prania)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowania po środkach ochrony roślin",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "PSZOK przyjmie opakowania wyłącznie z gospodarstw domowych, opróżnione lub zawierające nieznaczną ilość substancji."
+  },
+  {
+    "Nazwa": "opakowania szklane po kosmetykach i perfumach",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowania szklane po świeczkach",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie foliowe",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie plastikowe po chemii gospodarczej",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie plastikowe po maśle topionym",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie plastikowe po serze twarogowym",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Wrzuć tylko to opakowanie, na którym znajdziesz trójkątny znaczek recyklingu. Jeśli jest bardzo zabrudzone, wrzuć do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "opakowanie po aerozolu",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Należy opróżnić z zawartości."
+  },
+  {
+    "Nazwa": "opakowanie po batonach",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie po czekoladzie (papierowe)",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Opakowanie po czipsach",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Opakowanie po galaretce",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie po jogurcie (plastikowe)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Należy opróżnić z resztek żywności."
+  },
+  {
+    "Nazwa": "opakowanie po jogurcie, śmietanie (plastikowe)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Opakowania nie trzeba myć - wystarczy dobrze opóźnić z resztek żywności."
+  },
+  {
+    "Nazwa": "opakowanie po kleju silikonowym",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie po lakierze do włosów",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie po lekach",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Kartonik, ulotkę wrzuć do papieru, blistry do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "opakowanie po makaronie (papierowe)",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Opakowanie po margarynie (plastikowe)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie po maśle (papierek po maśle)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie po mięsie (plastikowe)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli jest bardzo zabrudzone, wrzuć do odpadów zmieszanych. Uwaga! Wkładkę pochłaniającą wodę i  przypominającą \"pampers\" wrzucamy do odpadów zmieszanych!"
+  },
+  {
+    "Nazwa": "opakowanie po mrożonkach (foliowe)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie po paście do butów",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli opakowanie jest wykonane z tworzywa sztucznego lub metalu i nie ma zawartości"
+  },
+  {
+    "Nazwa": "opakowanie po petardzie",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie po piance montażowej",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie po proszku do pieczenia",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Opakowanie po płynie do spryskiwaczy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie po smalcu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie po środku do udrażniania rur",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie styropianowe po wyrobach garmażeryjnych",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie szklane po jogurcie",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie szklane po syropie, tabletkach",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie, torebka po przyprawach",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opakowanie, worek po węglu drzewnym",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opiekacz",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Opona motocyklowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opona rowerowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opony rowerowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "opony samochodowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Odbieramy opony z samochodów osobowych do 22 cali (56 cm) - 4 szt. / mieszkańca / rok"
+  },
+  {
+    "Nazwa": "orzechy",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": "Jeśli są spleśniałe, wyrzuć do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "osłonka plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "owoce spadowe",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ozdoba świąteczna",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Uwaga! Ozdoby działające na prąd lub baterie zaliczane są do elektroodpadów i należy je dostarczyć na PSZOK lub oddać na zbiórce elektroodpadów."
+  },
+  {
+    "Nazwa": "ozdoby ceramiczne",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ozdoby porcelanowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Ołówek",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ości",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ościeżnica",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "paleta",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "paletki, rakietki (plastikowe, metalowe)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pampersy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "panel plastikowy",
+    "Gdzie Wyrzucić2": "zbiórka akcyjna\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Panele podlogowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "panele: ścienne, sufitowe, winylowe, podłogowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "papa",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Nie jest to odpad komunalny i nie podlega zbiórce organizowanej przez ZM \"Czysty Region\". Stanowi odpad niebezpieczny. Należy skontaktować się z wyspecjalizowaną firmą odbierającą tego typu odpady."
+  },
+  {
+    "Nazwa": "papier do pieczenia",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "papier fotograficzny, zdjęcie",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "papier komputerowy (np. do drukarek igłowych)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "papier kredowy",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "papier po maśle, smalcu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "papier samoprzylepny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "papier termiczny, faxowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "papier toaletowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "papier zatłuszczony, zabrudzony",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Papier ścierny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "papierki po cukierkach",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Papierki po Prince polo",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "papierowe opakowanie  po nawozach używanych w gospodarstwie domowym",
+    "Gdzie Wyrzucić2": "Papier\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Uwaga! Etykieta każdego produktu informuje o niebezpieczeństwie lub zagrożeniach jakie może on stwarzać oraz o sposobie postepowania z opakowaniem. Jeśli produkt jest zaopatrzony znakiem ostrzegawczym lub piktogramem, nie może trafić do pojemnika lub worka na odpady komunalne. Ze względu prawnych i środowiskowych, istnieje obowiązek profesjonalnej utylizacji tych opakowań na koszt posiadacza. Sprzedawca produktu ma obowiązek poinformować o sposobie postępowania z tego typu opakowaniami i dostępnych systemach zbiórki."
+  },
+  {
+    "Nazwa": "papierowe wytłoczki, wytłaczanki po jajkach",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "paragon",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "parapet",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "parasol",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "parasol ogrodowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "parowar",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pasek od glukometru",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Pasek od zegarka gumowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pasek od zegarka, do spodni",
+    "Gdzie Wyrzucić2": "Kontenery na odzież używaną\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "patelnia",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "patyczek drewniany np. do szaszłyków",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "patyczek drewniany po lodach",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "patyczki higieniczne",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Pellet",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Worki po pellecie wykonanie z tworzywa sztucznego, jeśli są niezanieczyszczone, wrzuć do pojemnika / worka na metale i tworzywa sztuczne"
+  },
+  {
+    "Nazwa": "pendrive, powerbank",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Pestka z owoców",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pianka montażowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "piasek",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Należy skontaktować się z Instalacją - tel. (77)488 68 50"
+  },
+  {
+    "Nazwa": "piasek z klatki kanarka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "piasek z piaskownicy (zanieczyszczony)",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Należy skontaktować się z Instalacją - tel. (77)488 68 50"
+  },
+  {
+    "Nazwa": "piaskownica",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pieczywo",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "piekarnik",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pielucha",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Pierze",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pierzyna",
+    "Gdzie Wyrzucić2": "Kontenery na odzież używaną\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pilnik do paznokci",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pilot do telewizora",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pilot tv",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pinezka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Pióra ptaków",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "piórnik",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "piła",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "piłka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plakaty",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plandeka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plastelina",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plaster",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plastikowa butelka po żelu do WC",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plastikowa ramka na zdjęcia",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli jest dużych rozmiarów, należy dostarczyć ją na PSZOK lub wystawić na zbiórce akcyjnej."
+  },
+  {
+    "Nazwa": "plastikowa zawieszka do WC",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plastikowa, drewniana szczoteczka do zębów",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plastikowe opakowanie  po nawozach używanych w gospodarstwie domowym",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Uwaga! Etykieta każdego produktu informuje o niebezpieczeństwie lub zagrożeniach jakie może on stwarzać oraz o sposobie postepowania z opakowaniem. Jeśli produkt jest zaopatrzony znakiem ostrzegawczym lub piktogramem, nie może trafić do pojemnika lub worka na odpady komunalne. Ze względu prawnych i środowiskowych, istnieje obowiązek profesjonalnej utylizacji tych opakowań na koszt posiadacza. Sprzedawca produktu ma obowiązek poinformować o sposobie postępowania z tego typu opakowaniami i dostępnych systemach zbiórki."
+  },
+  {
+    "Nazwa": "Plastikowe opakowanie po wędlinie",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plastikowe opakowanie po środkach czystości",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plastikowe wkłady do zniczy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plastikowe, styropianowe wytłoczki, wytłaczanki po jajkach",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "plecak",
+    "Gdzie Wyrzucić2": "Kontenery na odzież używaną\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Pluszaki",
+    "Gdzie Wyrzucić2": "Kontenery na odzież używaną\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Pocztówka",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "podkaszarka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "podkładka pod myszkę",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "podpaska",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "podpałka grillowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "podstawka pod parasol kamienna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "podstawka pod parasol plastikowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "poduszka (duża)",
+    "Gdzie Wyrzucić2": "zbiórka akcyjna\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Poduszka mała (jasiek)",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "podzespoły komputerowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pojemnik plastikowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pojemnik plastikowy po chemii gospodarczej (po płynie do naczyń, szamponie, mydle w płynie, płynie do podłogi, płynie uniwersalnym itp.)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Pojemnik plastikowy po gotowych daniach obiadowych",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pojemnik po aerozolu",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Wrzucamy do metali i tworzyw sztucznych o ile nie zawiera pozostałości odpadów niebezpiecznych."
+  },
+  {
+    "Nazwa": "pojemnik po jogurcie",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pojemnik po ketchupie",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pojemnik po kosmetykach (plastikowy)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pojemnik po kosmetykach (szklany)",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pojemnik po oleju silnikowym",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Pojemnik po płynie do spryskiwaczy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pojemniki po aerozolach (po kosmetykach, środkach czystości)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Pojemniki muszą być opróżnione."
+  },
+  {
+    "Nazwa": "pojemniki po farbach",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pokrowiec materiałowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pokrywka ze słoika",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pompa ogrodowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pompka elektryczna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pompka metalowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pompka plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Należy zgiąć, połamać przed wyrzuceniem."
+  },
+  {
+    "Nazwa": "popcorn",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "popiół z grilla",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "popiół z palenisk domowych",
+    "Gdzie Wyrzucić2": "Popiół\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Popiół zbieramy do szarego pojemnika zakupionego przez właściciela nieruchomości, opatrzonego naklejką wydaną po złożeniu \"Zgłoszenia selektywnego zbierania popiołu\"."
+  },
+  {
+    "Nazwa": "Porcelana",
+    "Gdzie Wyrzucić2": "Odpady zmieszane\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "W przypadku kompletnej porcelany można ją dostarczyć na PSZOK, gdzie znajduje się punkt \"Drugie życie\" (nie dotyczy MPSZOK)."
+  },
+  {
+    "Nazwa": "porcelanowa zastawa (filiżanki, talerzyki itp.)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "poszewki na pościel",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli są w dobrym stanie, możesz je wyrzucić do kontenera na odzież używaną.  Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "pralka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pralka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Prezerwatywa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "prezerwatywy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "prodiż",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "produkty zbożowe (mąka, makaron, płatki, kasze, bułka tarta)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "prospekty",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": "Prospekty i ulotki, o ile nie są z folii ani zatłuszczone, należy wyrzucać do niebieskiego pojemnika lub worka na papier."
+  },
+  {
+    "Nazwa": "proszek do prania",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Opróżnione opakowanie wrzuć do odpowiedniego pojemnika: na papier (opakowanie kartonowe) lub metale i tworzywa sztuczne (opakowanie plastikowe)."
+  },
+  {
+    "Nazwa": "przedłużacz",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Przedłużacz (listwa zasilająca)",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "przeterminowana, zepsuta, spleśniała żywność z opakowaniem",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Przeterminowane jedzenie",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Należy opróżnić z opakowania, opakowanie wrzucić do właściwego kosza."
+  },
+  {
+    "Nazwa": "przeterminowane leki",
+    "Gdzie Wyrzucić2": "Oznakowany pojemnik w aptece\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Listę aptek odbierających leki znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "przetwory",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Zawartość wyrzuć do odpadów zmieszanych, słoik do pojemnika na szkło."
+  },
+  {
+    "Nazwa": "prześcieradło",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli jest w dobrym stanie, możesz je wyrzucić do kontenera na odzież używaną.  Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "przycinarka do żywopłotu",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "przyłbica",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "puchar metalowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Pudełko po butach",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pudełko po mleku",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pudełko po papierosach",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": "Folię należy zdjąć i wrzucić do pojemnika na tworzywa sztuczne i metale."
+  },
+  {
+    "Nazwa": "pudełko po soku",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pudełko tekturowe",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pudła kartonowe",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "puste opakowanie po płynach eksploatacyjnych",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nSpecjalny pojemnik na stacji benzynowej",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "puszka aluminiowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "puszka metalowa po konserwie",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "puszka metalowa po warzywach (kukurydza, groszek)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "puszka po farbie",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "puszka po karbidzie",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "puszka po karmie dla zwierząt",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "puszka po rybach w oleju",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "puzzle",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "półka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pędzel",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "pędzel do makijażu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "PĘDZLE MALARSKIE",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "płyta CD",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "płyta falista poliwęglanowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "płyta winylowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "płytki ceramiczne",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczane do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "płytki pcv",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Płytki PCV są traktowane jako odpady budowlane."
+  },
+  {
+    "Nazwa": "płyty CD DVD",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "płyty winylowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "radio",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "rajstopy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "regał",
+    "Gdzie Wyrzucić2": "zbiórka akcyjna\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "regips",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "reklamówka foliowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "resztki farb w pojemnikach",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "resztki farby malarskiej razem z pojemnikiem",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "resztki jedzenia",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "resztki tkanin",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "resztki z obiadu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "rolety, roleta",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "rolki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "rower",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": "Możesz także oddać do punktu skupu złomu."
+  },
+  {
+    "Nazwa": "rozpuszczalniki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ryby",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ryby",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "rynna, rura metalowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "rynna, rura plastikowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ryż",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Rączka drewniana do motyki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ręcznik materiałowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli jest w dobrym stanie, możesz go wyrzucić do kontenera na odzież używaną.  Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "ręcznik papierowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "rękaw pieczeniowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "rękawice",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "rękawice kuchenne",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "rękawiczki jednorazowe (gumowe, plastikowe, lateksowe, nitrylowe)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Sadza",
+    "Gdzie Wyrzucić2": "Popiół",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sadzonki",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "samochodziki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli jest dużych rozmiarów, należy dostarczyć na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji. Jeśli działa na baterie lub prąd stanowi elektroodpad, który należy dostarczyć na PSZOK lub na zbiórkę elektroodpadów."
+  },
+  {
+    "Nazwa": "samochód zdalnie sterowany",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "saszetki po karmie dla zwierząt",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sałatka, kanapka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sedes",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "segregator",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Należy usunąć zawartość (wszelkie papiery, dokumenty, foliowe koszulki) i oddzielnie posegregować."
+  },
+  {
+    "Nazwa": "ser żółty",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "serek kanapkowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sianko z klatki chomika",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "siano (wysuszona, skoszona trawa) z gospodarstw domowych",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "siatka materiałowa na zakupy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "siatka materiałowa wielkoformatowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "siekiera",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sierść psa, kota",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "silikon",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Sitko plastikowe",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Skarpetka",
+    "Gdzie Wyrzucić2": "Kontenery na odzież używaną\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "skorupka jajka",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Skorupki po jajach",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "skorupy po owocach morza",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "skrzynka drewniana",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "skrzynka plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "skórka z arbuza",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "skórka z cytrusów",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "skórka z jabłka",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Skórki z pomarańczy",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "smoczek",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "smycz, smycze reklamowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "soczewki kontaktowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "spieniacz do mleka elektryczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "spinacz",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "spleśniałe warzywa, owoce",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "spray na komary, kleszcze, muchy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sprzęt AGD, RTV",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sprzęt audio",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sprzęt elektroniczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "stojak na rowery",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "stolarka drewniana",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "stolik szklany",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": "Szkło należy rozbić i wrzucić do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "Strzykawka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "strzykawki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "styropian dociepleniowy",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Nie jest to odpad komunalny i nie podlega zbiórce organizowanej przez ZM \"Czysty Region\". Należy skontaktować się z wyspecjalizowaną firmą odbierającą tego typu odpady."
+  },
+  {
+    "Nazwa": "styropian opakowaniowy (czysty)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Styropian po agd",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "stół",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "stół pingpongowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Stłuczony słoik",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Suche liście",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "suszarka do warzyw, grzybów, owoców",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "suszarka ogrodowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "suszarka, prostownica do włosów",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "suszone kwiaty",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Sweter",
+    "Gdzie Wyrzucić2": "Kontenery na odzież używaną",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "syrop (kat. leki)",
+    "Gdzie Wyrzucić2": "Oznakowany pojemnik w aptece\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Listę aptek odbierających leki znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "szafka, szafa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szczotka do czyszczenia wc",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szczotka do włosów",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szczotka z różnym włosiem",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szklana butelka po oliwie",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": "Należy opróżnić z zawartości."
+  },
+  {
+    "Nazwa": "Szklane opakowania po aromatach do ciast",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szklanka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szklany słoik po jogurcie",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": "Opakowanie należy opróżnić z resztek żywności."
+  },
+  {
+    "Nazwa": "szklany słoik po majonezie, oliwie, oleju",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szklany słoik po śledziach",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": "Opakowanie należy opróżnić z resztek żywności."
+  },
+  {
+    "Nazwa": "szklarnia",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Należy skontaktować się z Instalacją - tel. (77)488 68 50"
+  },
+  {
+    "Nazwa": "szkło stołowe",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szkło żaroodporne",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szmata brudna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szmatka, szmaty",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sznurówka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Szpadel (element metalowy)",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szpilka",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szpulka nici",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sztacheta",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sztuczna szczęka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sztuczna trawa w rolce",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sztuczne kwiaty",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sztuczne kwiaty",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sztućce drewniane",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sztućce metalowe",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "sztućce plastikowe jednorazowe",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Zabrudzone wrzuć do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "szuflada",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szyba",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szyba samochodowa",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Nie jest to odpad komunalny i nie podlega zbiórce organizowanej przez ZM \"Czysty Region\". Ten odpad powinien od nas odebrać mechanik."
+  },
+  {
+    "Nazwa": "szynka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "szyszki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "słodycze, czekolada, ciasto",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "słoik szklany",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "słoik szklany z elementami plastikowymi, metalowymi trwale połączonymi",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "słoik szklany z metalową nakrętką",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": "Nakrętkę wrzucić do pojemnika na tworzywa sztuczne i metal."
+  },
+  {
+    "Nazwa": "słoik szklany z plastikową nakrętką",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": "Nakrętkę wrzucić do pojemnika na tworzywa sztuczne i metal."
+  },
+  {
+    "Nazwa": "słoiki z przetworami",
+    "Gdzie Wyrzucić2": "Szkło",
+    "Komentarz": "UWAGA! Słoiki należy opróżnić z zawartości. Zawartość wyrzucić do pojemnika na odpady zmieszane."
+  },
+  {
+    "Nazwa": "słomka papierowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "słomka plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "słuchawki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tabletki",
+    "Gdzie Wyrzucić2": "Oznakowany pojemnik w aptece\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Listę aptek odbierających leki znajdziesz tutaj Puste blistry wrzuć do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "tablica korkowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tablica suchościeralna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "taboret",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tacka aluminiowa po grillowaniu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tacka metalowa, tacka aluminiowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tacka styropianowa czysta",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tacka styropianowa zabrudzona żywnością",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "taczka",
+    "Gdzie Wyrzucić2": "zbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "talerz ceramiczny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "talerz szklany",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "talerz z arkoroku",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "talerzyk papierowy jednorazowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "talerzyk plastikowy jednorazowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Zabrudzony wrzuć do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "tampon",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Tapczan",
+    "Gdzie Wyrzucić2": "zbiórka akcyjna\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tapeta",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tapety",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tapicerka samochodowa",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Części samochodowe nie stanowią odpadów komunalnych i nie podlegają zbiórce organizowanej przez gminy, w tym przez Związek. Ten odpad należy zagospodarować na własny koszt, np. na stacji demontażu pojazdów."
+  },
+  {
+    "Nazwa": "taśma klejąca, biurowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Taśma Obustronna",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Taśma opakunkowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "taśmy magnetowidowe VHS",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tealight",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Tekstylia",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Dodatkowo odzież można wrzucać do kontenerów na odzież używaną. \nLokalizację kontenerów PCK znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "tektura",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "telefon",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Możesz wyrzucić także do oznakowanego pojemnika w wybranych placówkach handlowych."
+  },
+  {
+    "Nazwa": "Telewizor",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "temperówka",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "terakota",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczana do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "termofor",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "termometr elektroniczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "termometr rtęciowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "termos, kubek termiczny",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "test ciążowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "test na covid",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tetrapak",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "toner, tonery, tusz do drukarki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Możesz oddać sprzedawcy, od którego zakupiłeś wkład do drukarki lub wrzucić do odpowiedniego pojemnika w placówce handlowej."
+  },
+  {
+    "Nazwa": "torba materiałowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "torebka damska, męska, dziecięca",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli są w dobrym stanie możesz je wyrzucić do kontenera na odzież używaną.  Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "torebka po herbacie",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "torebka po popcornie",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "torebki papierowo-foliowe na pieczywo",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Torebki po pieczywie",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tornister",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tort",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "toster",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "trampolina",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "trawa",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": "Nadmiar odpadów zielonych można także dostarczyć do Punktu Selektywnej Zbiórki Odpadów Komunalnych."
+  },
+  {
+    "Nazwa": "trociny po zwierzętach",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tubka  po maści",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Tubka po kremie",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tubka po paście do zębów",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tubki po kosmetykach",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Tuja",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": "Krzew należy uprzednio pociąć na drobniejsze części (ok 30cm)"
+  },
+  {
+    "Nazwa": "tusz do rzęs",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "tynk",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "tłuszcz",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ubrania",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli są w dobrym stanie możesz je wyrzucić do kontenera na odzież używaną.  \nIch lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "Ubrania",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Dodatkowo odzież można wrzucać do kontenerów na odzież używaną. \nLokalizację kontenerów PCK znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "ulotka",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "umywalka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczana do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "urządzenie elektryczne na komary, mrówki itp.",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wacik kosmetyczny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "waga elektroniczna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "walizka",
+    "Gdzie Wyrzucić2": "zbiórka akcyjna\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wanienka dla dzieci plastikowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wanna akrylowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wanna metalowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": "Możesz także oddać do punktu skupu złomu."
+  },
+  {
+    "Nazwa": "wanna żeliwna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": "Możesz także oddać do punktu skupu złomu."
+  },
+  {
+    "Nazwa": "wanna, brodzik - plastikowe, metalowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wanna, brodzik – ceramiczne",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczana do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "wata",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wata szklana, wełna mineralna",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Należy skontaktować się ze specjalistyczną firmą odbierającą tego typu odpady. Materiały te muszą zostać poddane skomplikowanej utylizacji. Powodem są toksyczne substancje, które wydzielają się w trakcie procesu recyklingu. Niewłaściwe składowanie wełny mineralnej jest niebezpieczne dla środowiska i może powodować zanieczyszczenie gleby, wody i powietrza, a także stanowić zagrożenie dla ludzi."
+  },
+  {
+    "Nazwa": "wazon ceramiczny, szklany, kryształowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wazon plastikowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wałek do ciasta drewniany",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wałek do ciasta plastikowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wentylator elektryczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wersalka",
+    "Gdzie Wyrzucić2": "zbiórka akcyjna\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wełna mineralna",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Nie jest to odpad komunalny i nie podlega zbiórce organizowanej przez ZM \"Czysty Region\". Należy skontaktować się z wyspecjalizowaną firmą odbierającą tego typu odpady."
+  },
+  {
+    "Nazwa": "wiaderko",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Wiaderka plastikowe czy metalowe należy wrzucać do żółtego pojemnika lub worka. Jeśli są one dużych rozmiarów, należy dostarczyć je na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji. Uwaga! Wiaderka po farbach stanowią opakowania po odpadach niebezpiecznych i odbierane są wyłącznie w PSZOK."
+  },
+  {
+    "Nazwa": "wiadro metalowe",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "wiadro plastikowe",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "wiadro po farbie",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wieczko aluminiowe",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wieczko plastikowe z jednorazowego kubka",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wieszak na odzież drewniany",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wieszak na odzież plastikowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wieszak na opony",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wiosło",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wkład do długopisu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wkład do zniczy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wkłady do urządzeń elektrycznych na komary, muchy itp.",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wkłady do zniczy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Woreczek bio z kukurydzy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Woreczek biodegradowalny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "woreczek foliowy po kostkach lodu",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "woreczek śniadaniowy (czysty)",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "woreczek, papier po twarogu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "worek foliowy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "worek jutowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "worek po cemencie",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "w ramach przeprowadzonych własnoręcznie remontów"
+  },
+  {
+    "Nazwa": "worek po ekogroszku",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Worek po pellecie",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli worek jest mocno zanieczyszczony wrzuć do odpadów zmieszanych."
+  },
+  {
+    "Nazwa": "worek po węglu",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "worek po zaprawach, cemencie, wapnie",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "w ramach przeprowadzonych własnoręcznie remontów"
+  },
+  {
+    "Nazwa": "worek po ziemi ogrodowej",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Inny niż foliowy"
+  },
+  {
+    "Nazwa": "worek raszlowy (np. po cebuli, ziemniakach)",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "worek z odkurzacza",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Worki foliowe po ziemi ogrodowej",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Worki po cemencie",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "worki po ekogroszku",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "worki po kiszonkach w gospodarstwie rolnym",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Odpady z działalności rolniczej, produkcyjnej nie są odpadami komunalnymi i nie podlegają zbiórce organizowanej przez ZM \"Czysty Region\", punkty utylizujące dostępne na stronach internetowych gmin."
+  },
+  {
+    "Nazwa": "wrotki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wstążka ozdobna, satynowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Zanim wyrzucisz, potnij ją na ok. 30 centymetrowe kawałki. Materiał dużych rozmiarów może uszkodzić instalację do przetwarzania odpadów."
+  },
+  {
+    "Nazwa": "wycieczka do butów",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wycieraczka samochodowa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wykałaczka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wykałaczki, patyczki do szaszłyków",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Wykladzina pcv",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wykładzina PCV",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Wykładziny podłogowe",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wyłącznik światła",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wózek dla lalek",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wózek dziecięcy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wąż do podlewania",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Zanim wyrzucisz, potnij na ok. 30 centymetrowe kawałki. Materiał dużych rozmiarów może uszkodzić instalację do przetwarzania odpadów."
+  },
+  {
+    "Nazwa": "wędka, podbierak",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "wędlina",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "wędliny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "węgiel drzewny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "włosy, paznokcie, zęby",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "włóknina",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zabawka elektryczna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zabawka grająca",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zabawki do piaskownicy",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Zabawki plastikowe",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Ważne! Jeżeli zabawki są na BATERIE wówczas nie można ich wyrzucić do żółtych pojemników - należy dostarczyć je na PSZOK. Kompletne zabawki można również dostarczyć na PSZOK - gdzie znajduje się punkt \" Drugie życie\"."
+  },
+  {
+    "Nazwa": "zabawki pluszowe",
+    "Gdzie Wyrzucić2": "Kontenery na odzież używaną\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Zabrudzony woreczek śniadaniowy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zakrętka metalowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zakrętka plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zalaminowany papier",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Zamek błyskawiczny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zamrażarka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zapalniczka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zapałki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zaprawa (murarska, tynkarska, betonowa, gips)",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczana do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "zasłona",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zawieszka do wc",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zazdrostka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zdechłe, padłe zwierzęta domowe",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Zgodnie z odrębnymi przepisami - należy przekazać do zakładu utylizacyjnego lub zapytać u weterynarza."
+  },
+  {
+    "Nazwa": "Zdjęcia Rtg",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zegar elektroniczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zegar na baterie",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zegar ścienny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "zegarek mechaniczny",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Jeśli jest dużych rozmiarów należy dostarczyć  na PSZOK lub wystawić na zbiórkę akcyjną sprzed posesji."
+  },
+  {
+    "Nazwa": "Zepsuta zabawka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane\n\n                    \n                                            \n\nPunkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Uwaga! Zabawki działające na prąd lub baterie traktowane są jako elektroodpady - należy je dostarczyć na PSZOK. Zwykłe lalki czy pluszaki należy wrzucić do kosza na odpady zmieszane."
+  },
+  {
+    "Nazwa": "zeszyt",
+    "Gdzie Wyrzucić2": "Papier",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ziemia",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Należy skontaktować się z Instalacją - tel. (77)488 68 50"
+  },
+  {
+    "Nazwa": "ziemia z doniczek",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ziemniaki gotowane",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ziemniaki, mięso, żywność gotowana, smażona, kiszona",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": "Czy wiesz, że w Polsce marnuje się ok. 9 mln ton żywności rocznie?"
+  },
+  {
+    "Nazwa": "zimne ognie",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zjeżdżalnia",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zlewozmywak ceramiczny",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "zlewozmywak granitowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "Zaliczany do odpadów budowlanych, w przypadku których obowiązują limity bezpłatnego przyjęcia na PSZOK."
+  },
+  {
+    "Nazwa": "zlewozmywak metalowy",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zmiotka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zmywacz do paznokci",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zmywarka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "znicz, wkład do znicza",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "znicze",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Znicze elektryczne",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Znicze elektryczne można także wrzucić do Międzygminnych Punktów Zbiórki Elekroodpadów."
+  },
+  {
+    "Nazwa": "Zniszczona odzież",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zniszczone ubrania",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zszywacz",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zupa",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zużyta golarka, jednorazowa maszynka do golenia",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Zużyte paski do pomiaru cukru",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "zużyte płyny eksploatacyjne (np. płyn hamulcowy)",
+    "Gdzie Wyrzucić2": "",
+    "Komentarz": "Nie jest to odpad komunalny i nie podlega zbiórce organizowanej przez ZM \"Czysty Region\". Ten odpad powinien od nas odebrać mechanik."
+  },
+  {
+    "Nazwa": "zużyte wkładki do butów",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ładowarka do telefonu, laptopa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ławka drewniana",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ławka metalowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ławka plastikowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "łańcuch",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "łopatka plastikowa",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "łupiny",
+    "Gdzie Wyrzucić2": "Bioodpady\n\n                    \n                                            \n\nPrzydomowy kompostownik",
+    "Komentarz": "Nadmiar bioodpadów można także dostarczyć do Punktu Selektywnej Zbiórki Odpadów Komunalnych."
+  },
+  {
+    "Nazwa": "Łupiny z czosnku",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "Łuski z cebuli",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "łyżwy",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ścierka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "ścierki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "śmieci z odkurzacza",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "śpiwór",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nKontener na odzież używaną",
+    "Komentarz": "Jeśli jest w dobrym stanie możesz je wyrzucić do kontenera na odzież używaną.  Ich lokalizację znajdziesz tutaj"
+  },
+  {
+    "Nazwa": "środki ochrony roślin",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": "PSZOK przyjmie wyłącznie odpady pochodzące z gospodarstw domowych w opakowaniach zawierających nieznaczną ilość substancji."
+  },
+  {
+    "Nazwa": "śrubokręt",
+    "Gdzie Wyrzucić2": "Metale i tworzywa sztuczne",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "świeczka",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "świeczki",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "świetlówka",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nOznakowany pojemnik w placówkach handlowych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "świetlówki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "żaluzja",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka akcyjna",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "żarówka energooszczędna",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Możesz wyrzucić także do oznakowanego pojemnika w wybranych placówkach handlowych."
+  },
+  {
+    "Nazwa": "żarówka halogenowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Możesz wyrzucić także do oznakowanego pojemnika w wybranych placówkach handlowych."
+  },
+  {
+    "Nazwa": "żarówka LED",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Możesz wyrzucić także do oznakowanego pojemnika w wybranych placówkach handlowych."
+  },
+  {
+    "Nazwa": "żarówka samochodowa",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Możesz wyrzucić także do oznakowanego pojemnika w wybranych placówkach handlowych."
+  },
+  {
+    "Nazwa": "żarówka, żarówki",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": "Możesz wyrzucić także do oznakowanego pojemnika w wybranych placówkach handlowych."
+  },
+  {
+    "Nazwa": "żelazko",
+    "Gdzie Wyrzucić2": "Punkt Selektywnej Zbiórki Odpadów Komunalnych\n\n                    \n                                            \n\nZbiórka elektroodpadów",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "żołędzie",
+    "Gdzie Wyrzucić2": "Bioodpady",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "żwirek dla kota",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "żwirek silikonowy dla kota",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  },
+  {
+    "Nazwa": "żywność spleśniała",
+    "Gdzie Wyrzucić2": "Odpady zmieszane",
+    "Komentarz": ""
+  }
+]
