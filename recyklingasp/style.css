@@ -1,0 +1,137 @@
+:root {
+  --bg: #f7f7fb;
+  --card: #ffffff;
+  --muted: #666;
+  --blue: #2b6ef6;
+  --yellow: #f2c200;
+  --green: #2f9e44;
+  --brown: #8b5a2b;
+  --gray: #6b7280;
+}
+
+body {
+  font-family: Inter, Arial, sans-serif;
+  background: var(--bg);
+  margin: 0;
+  padding: 24px;
+  color: #111;
+}
+
+.wrap {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+header {
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 22px;
+}
+
+.lead {
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+
+.card {
+  background: var(--card);
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 6px 20px rgba(20, 20, 50, 0.06);
+  margin-bottom: 18px;
+}
+
+.search {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+input[type=text] {
+  flex: 1;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid #e6e9ef;
+  font-size: 15px;
+}
+
+button {
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: none;
+  background: var(--blue);
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1e56c2;
+}
+
+.results {
+  margin-top: 14px;
+}
+
+.bin {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px dashed #eee;
+  margin-bottom: 8px;
+}
+
+.dot {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-weight: 700;
+}
+
+.dot.blue { background: var(--blue); }
+.dot.yellow { background: var(--yellow); color: #111; }
+.dot.green { background: var(--green); }
+.dot.brown { background: var(--brown); }
+.dot.gray { background: var(--gray); }
+
+.info { flex: 1; }
+.muted { color: var(--muted); font-size: 13px; }
+
+.examples {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+.chip {
+  background: #f1f5ff;
+  padding: 6px 10px;
+  border-radius: 999px;
+  cursor: pointer;
+  border: 1px solid #e6edff;
+  font-size: 14px;
+}
+
+footer {
+  margin-top: 18px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+@media (max-width: 520px) {
+  .search {
+    flex-direction: column;
+  }
+  button {
+    width: 100%;
+  }
+}
